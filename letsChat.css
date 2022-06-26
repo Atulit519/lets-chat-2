@@ -1,0 +1,7 @@
+body{
+    background: linear-gradient(blue, darkblue);
+}
+
+#logout_btn{
+    margin: 10px;
+}
